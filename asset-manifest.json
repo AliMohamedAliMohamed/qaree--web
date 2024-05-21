@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qaree--web/static/css/main.f413255e.css",
-    "main.js": "/qaree--web/static/js/main.48b2b573.js",
+    "main.css": "/qaree--web/static/css/main.0b497617.css",
+    "main.js": "/qaree--web/static/js/main.80b86123.js",
     "static/media/155.png": "/qaree--web/static/media/155.a5ba320b0777f931478c.png",
     "static/media/44 (1).png": "/qaree--web/static/media/44 (1).364b1845acec302ad4ce.png",
     "static/media/44 (2).png": "/qaree--web/static/media/44 (2).e1a72153444d246ce728.png",
@@ -13,7 +13,6 @@
     "static/media/chats.png": "/qaree--web/static/media/chats.b323525a9c9b75475f3b.png",
     "static/media/logo.png": "/qaree--web/static/media/logo.2eb2f5d6ece19b742d09.png",
     "static/media/mmm.png": "/qaree--web/static/media/mmm.2eb2f5d6ece19b742d09.png",
-    "static/media/image1.jpg": "/qaree--web/static/media/image1.55860b357e4faf590b8c.jpg",
     "static/media/Reading View.png": "/qaree--web/static/media/Reading View.ff7a830d3fd027c59bfa.png",
     "static/media/community.png": "/qaree--web/static/media/community.b2c389c630f53c592dcb.png",
     "static/media/Reading View2.png": "/qaree--web/static/media/Reading View2.91b6d4123d898fb4def3.png",
@@ -25,11 +24,11 @@
     "static/media/slick.ttf": "/qaree--web/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/qaree--web/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/qaree--web/index.html",
-    "main.f413255e.css.map": "/qaree--web/static/css/main.f413255e.css.map",
-    "main.48b2b573.js.map": "/qaree--web/static/js/main.48b2b573.js.map"
+    "main.0b497617.css.map": "/qaree--web/static/css/main.0b497617.css.map",
+    "main.80b86123.js.map": "/qaree--web/static/js/main.80b86123.js.map"
   },
   "entrypoints": [
-    "static/css/main.f413255e.css",
-    "static/js/main.48b2b573.js"
+    "static/css/main.0b497617.css",
+    "static/js/main.80b86123.js"
   ]
 }

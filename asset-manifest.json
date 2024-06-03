@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qaree--web/static/css/main.0b497617.css",
-    "main.js": "/qaree--web/static/js/main.80b86123.js",
+    "main.css": "/qaree--web/static/css/main.f49c3e09.css",
+    "main.js": "/qaree--web/static/js/main.29739356.js",
     "static/media/155.png": "/qaree--web/static/media/155.a5ba320b0777f931478c.png",
     "static/media/44 (1).png": "/qaree--web/static/media/44 (1).364b1845acec302ad4ce.png",
     "static/media/44 (2).png": "/qaree--web/static/media/44 (2).e1a72153444d246ce728.png",
@@ -24,11 +24,11 @@
     "static/media/slick.ttf": "/qaree--web/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/qaree--web/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/qaree--web/index.html",
-    "main.0b497617.css.map": "/qaree--web/static/css/main.0b497617.css.map",
-    "main.80b86123.js.map": "/qaree--web/static/js/main.80b86123.js.map"
+    "main.f49c3e09.css.map": "/qaree--web/static/css/main.f49c3e09.css.map",
+    "main.29739356.js.map": "/qaree--web/static/js/main.29739356.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b497617.css",
-    "static/js/main.80b86123.js"
+    "static/css/main.f49c3e09.css",
+    "static/js/main.29739356.js"
   ]
 }
